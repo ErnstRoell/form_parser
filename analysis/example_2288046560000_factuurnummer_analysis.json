@@ -1,0 +1,70 @@
+{
+    "status": "Succeeded",
+    "recognitionResults": [
+        {
+            "page": 1,
+            "clockwiseOrientation": 0.18,
+            "width": 2.5,
+            "height": 0.4167,
+            "unit": "inch",
+            "lines": [
+                {
+                    "boundingBox": [
+                        0.3792,
+                        0.1709,
+                        1.696,
+                        0.1921,
+                        1.6927,
+                        0.3271,
+                        0.3776,
+                        0.3076
+                    ],
+                    "text": "Factuurnummer:",
+                    "words": [
+                        {
+                            "boundingBox": [
+                                0.3818,
+                                0.1726,
+                                1.6903,
+                                0.2092,
+                                1.6918,
+                                0.3148,
+                                0.3784,
+                                0.3111
+                            ],
+                            "text": "Factuurnummer:"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": [
+                        1.818,
+                        0.1709,
+                        2.3438,
+                        0.1725,
+                        2.3438,
+                        0.3158,
+                        1.8164,
+                        0.3141
+                    ],
+                    "text": "XXXXX",
+                    "words": [
+                        {
+                            "boundingBox": [
+                                1.8611,
+                                0.1731,
+                                2.3443,
+                                0.1747,
+                                2.3434,
+                                0.3184,
+                                1.8574,
+                                0.3171
+                            ],
+                            "text": "XXXXX"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

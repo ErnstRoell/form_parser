@@ -1,0 +1,19 @@
+{
+    "2288046560000": {
+        "filepath": "./parsed/example_2288046560000.pdf",
+        "factuurnummer_path": "./roi/example_2288046560000_factuurnummer.pdf",
+        "adres_path": "./roi/example_2288046560000_adres.pdf",
+        "factuurnummer_analysis": "./analysis/example_2288046560000_factuurnummer_analysis.json",
+        "adres_analysis": "./analysis/example_2288046560000_adres_analysis.json",
+        "factuurnummer_result": [
+            "Factuurnummer:",
+            "XXXXX"
+        ],
+        "adres_result": [
+            "Aan: (Bedrijfs)naam Klant",
+            "De heer (of Mevrouw?) P. Verweerd",
+            "Straatnaam + nr.",
+            "Postcode + VESTIGINGSPLAATS"
+        ]
+    }
+}
